@@ -1,0 +1,5 @@
+td=('one','two','three')
+ir = iter(td)
+print(next(ir))
+print(next(ir))
+print(next(ir))
